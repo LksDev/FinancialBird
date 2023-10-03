@@ -1,0 +1,5 @@
+Lebensmittel;edeka;rossmann;aldi;rewe;lidl;marktkauf
+Apotheke;apotheke
+Gehalt;arbeitgeber
+Tanken;Tanken;Tankstelle;tank;
+PayPal;paypal

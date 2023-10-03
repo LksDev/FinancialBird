@@ -1,0 +1,5 @@
+Bezeichnung Auftragskonto;IBAN Auftragskonto;BIC Auftragskonto;Bankname Auftragskonto;Buchungstag;Valutadatum;Name Zahlungsbeteiligter;IBAN Zahlungsbeteiligter;BIC (SWIFT-Code) Zahlungsbeteiligter;Buchungstext;Verwendungszweck;Betrag;Waehrung;Saldo nach Buchung;Bemerkung;Kategorie;Steuerrelevant;Glaeubiger ID;Mandatsreferenz
+MeinKonto;DE_IBAN_Auftrag;BIC;Vereinigte Volksbank;01.01.2023;01.01.2023;REWE;DE_IBAN_Empfaenger;BIC;Kartenzahlung;;-50;EUR;950;;Sonstiges;;;
+MeinKonto;DE_IBAN_Auftrag;BIC;Vereinigte Volksbank;02.01.2023;01.01.2023;REWE;DE_IBAN_Empfaenger;BIC;Kartenzahlung;;-50;EUR;900;;Sonstiges;;;
+MeinKonto;DE_IBAN_Auftrag;BIC;Vereinigte Volksbank;03.01.2023;01.01.2023;Apotheke;DE_IBAN_Empfaenger;BIC;Kartenzahlung;;-50;EUR;850;;Sonstiges;;;
+MeinKonto;DE_IBAN_Auftrag;BIC;Vereinigte Volksbank;04.01.2023;01.01.2023;Arbeitgeber;DE_IBAN_Empfaenger;BIC;Kartenzahlung;;850;EUR;1700;;Sonstiges;;;
